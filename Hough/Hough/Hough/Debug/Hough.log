@@ -1,0 +1,26 @@
+﻿  main.cpp
+  Hough.cpp
+c:\users\10545\documents\visual studio 2015\projects\hough\hough\hough.cpp(18): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\hough\hough\hough.cpp(50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\hough\hough\hough.cpp(65): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\hough\hough\hough.cpp(70): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\hough\hough\hough.cpp(90): warning C4018: '<': signed/unsigned mismatch
+c:\users\10545\documents\visual studio 2015\projects\hough\hough\hough.cpp(94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\hough\hough\hough.cpp(101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\hough\hough\hough.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\10545\documents\visual studio 2015\projects\hough\hough\hough.cpp(123): warning C4018: '<': signed/unsigned mismatch
+c:\users\10545\documents\visual studio 2015\projects\hough\hough\hough.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\10545\documents\visual studio 2015\projects\hough\hough\hough.cpp(134): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\hough\hough\hough.cpp(147): warning C4018: '<': signed/unsigned mismatch
+c:\users\10545\documents\visual studio 2015\projects\hough\hough\hough.cpp(148): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\hough\hough\hough.cpp(148): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\hough\hough\hough.cpp(149): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\hough\hough\hough.cpp(149): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\hough\hough\hough.cpp(150): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\hough\hough\hough.cpp(150): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\hough\hough\hough.cpp(151): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\hough\hough\hough.cpp(151): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\hough\hough\hough.cpp(163): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Hough.vcxproj -> C:\Users\10545\Documents\Visual Studio 2015\Projects\Hough\Debug\Hough.exe
+  Hough.vcxproj -> C:\Users\10545\Documents\Visual Studio 2015\Projects\Hough\Debug\Hough.pdb (Full PDB)
