@@ -1,0 +1,17 @@
+﻿  main.cpp
+  ColorTransfer.cpp
+c:\users\10545\documents\visual studio 2015\projects\color_transfer\color_transfer\colortransfer.cpp(27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\color_transfer\color_transfer\colortransfer.cpp(28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\color_transfer\color_transfer\colortransfer.cpp(29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\color_transfer\color_transfer\colortransfer.cpp(30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\color_transfer\color_transfer\colortransfer.cpp(31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\color_transfer\color_transfer\colortransfer.cpp(32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\color_transfer\color_transfer\colortransfer.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\color_transfer\color_transfer\colortransfer.cpp(35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\color_transfer\color_transfer\colortransfer.cpp(36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\color_transfer\color_transfer\colortransfer.cpp(37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\color_transfer\color_transfer\colortransfer.cpp(38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\10545\documents\visual studio 2015\projects\color_transfer\color_transfer\colortransfer.cpp(39): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Color_Transfer.vcxproj -> C:\Users\10545\documents\visual studio 2015\Projects\Color_Transfer\Debug\Color_Transfer.exe
+  Color_Transfer.vcxproj -> C:\Users\10545\documents\visual studio 2015\Projects\Color_Transfer\Debug\Color_Transfer.pdb (Full PDB)
