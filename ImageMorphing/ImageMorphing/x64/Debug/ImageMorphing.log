@@ -1,0 +1,27 @@
+﻿  FaceMorphing.cpp
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(58): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(94): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(104): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(105): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cimg.h(14407): warning C4319: '~': zero extending 'unsigned long' to 'double' of greater size
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\cimg.h(14406): note: while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\cimg.h(14138): note: see reference to function template instantiation 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)' being compiled
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\cimg.h(16160): note: see reference to class template instantiation 'cimg_library::CImg<float>::_cimg_math_parser' being compiled
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\cimg.h(16158): note: while compiling class template member function 'double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\cimg.h(50762): note: see reference to function template instantiation 'double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const' being compiled
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\cimg.h(27785): note: see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\cimg.h(49813): note: see reference to class template instantiation 'cimg_library::CImg<char>' being compiled
+  ImageMorphing.vcxproj -> C:\Users\10545\Documents\GitHub\CImg\ImageMorphing\x64\Debug\ImageMorphing.exe
+  ImageMorphing.vcxproj -> C:\Users\10545\Documents\GitHub\CImg\ImageMorphing\x64\Debug\ImageMorphing.pdb (Full PDB)
