@@ -41,30 +41,31 @@ int main() {
 		dst_points.push_back(p);
 	}
 
-	for (int i = 0; i < dst_points.size(); i++) {
-		cout << src_points[i].x << " " << src_points[i].y << endl;
-	}
-
 	ifstream infile_tri;
 	infile_tri.open("triangle.txt");
 	if (!infile_tri.is_open()) {
 		cout << "error read triangle.txt" << endl;
 		return 0;
 	}
+
+	vector<vector<int>> index;
 	string s3;
 	int index1, index2, index3;
 	while (getline(infile_tri, s3)) {
+		vector<int> tempindex;
 		stringstream ss(s3);
 		ss >> index1 >> index2 >> index3;
-		triangle srctri(src_points[index1-1], src_points[index2-1], src_points[index3-1]);
-		triangle dsttri(dst_points[index1-1], dst_points[index2-1], dst_points[index3-1]);
-		src_tri.push_back(srctri);
-		dst_tri.push_back(dsttri);
+		tempindex.push_back(index1 - 1);
+		tempindex.push_back(index2 - 1);
+		tempindex.push_back(index3 - 1);
+		index.push_back(tempindex);
 	}
 
-
-	FaceMorphing fm(src,dst);
-	fm.run(src_tri, dst_tri);
+	//for (int i = 0; i < index.size(); i++) {
+		//cout << index[i][0] << " " << index[i][1] << " " << index[i][2] << endl;
+	//}
+	FaceMorphing fm(src,dst, src_points, dst_points, index, 3);
+	fm.run();
 	return 0;
 
 }

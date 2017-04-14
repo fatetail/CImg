@@ -30,20 +30,24 @@ class FaceMorphing {
 private:
 	vector<Point> src_points;
 	vector<Point> dst_points;
+	vector<vector<Point>> mid_points;
+
+	vector<vector<int>> index;
 	vector<triangle> src_triangle_list;
 	vector<triangle> dst_triangle_list;
+	vector<vector<triangle>> mid_triangle_list;
 
 	CImg<float> src;
 	CImg<float> dst;
 
 	CImgList<float> transform;
-	int framcnt;
+	int framecnt;
 public:
-	FaceMorphing(CImg<float> _src, CImg<float> _dst, vector<Point> srcpoints, vector<Point> dstpoints);
+	FaceMorphing(CImg<float> _src, CImg<float> _dst, vector<Point> srcpoints, vector<Point> dstpoints, vector<vector<int>> index, int framecnt);
 	void set_src_triangle(vector<triangle> triangle_arr);
 	void set_dst_triangle(vector<triangle> triangle_arr);
-	void find_transform();
+	CImg<float> find_transform(triangle before, triangle after);
 	bool is_intriangle(Point P, triangle tri);
 	void morphing();
-	void run(vector<triangle> src_triangle, vector<triangle> dst_triangle);
+	void run();
 };
