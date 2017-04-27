@@ -11,6 +11,8 @@ int main() {
 	vector<Point> dst_points;
 	vector<triangle> src_tri;
 	vector<triangle> dst_tri;
+
+	/*Read source points coordinates*/
 	ifstream infile_src_points;
 	infile_src_points.open("srcpoints.txt");
 	if (!infile_src_points.is_open()) {
@@ -26,6 +28,7 @@ int main() {
 		src_points.push_back(p);
 	}
 
+	/*Read destination points coordinates*/
 	ifstream infile_dst_points;
 	infile_dst_points.open("dstpoints.txt");
 	if (!infile_dst_points.is_open()) {
@@ -41,6 +44,7 @@ int main() {
 		dst_points.push_back(p);
 	}
 
+	/*Read the indexs of triangles points*/
 	ifstream infile_tri;
 	infile_tri.open("triangle.txt");
 	if (!infile_tri.is_open()) {
@@ -61,10 +65,8 @@ int main() {
 		index.push_back(tempindex);
 	}
 
-	//for (int i = 0; i < index.size(); i++) {
-		//cout << index[i][0] << " " << index[i][1] << " " << index[i][2] << endl;
-	//}
-	FaceMorphing fm(src,dst, src_points, dst_points, index, 3);
+
+	FaceMorphing fm(src,dst, src_points, dst_points, index, 12);
 	fm.run();
 	return 0;
 

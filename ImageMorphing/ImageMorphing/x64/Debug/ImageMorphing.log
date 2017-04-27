@@ -1,28 +1,25 @@
 ﻿  FaceMorphing.cpp
-c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(33): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(80): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(81): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(82): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(83): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(84): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(85): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(87): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(88): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(90): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(91): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(92): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(93): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(95): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(96): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(97): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(98): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(99): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(100): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(134): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(148): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(149): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(163): warning C4018: '>': signed/unsigned mismatch
-c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(165): warning C4018: '>': signed/unsigned mismatch
-c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(168): warning C4018: '>': signed/unsigned mismatch
-c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(170): warning C4018: '>': signed/unsigned mismatch
-c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(173): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(174): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(175): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(137): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(154): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(155): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(168): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(169): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(170): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\10545\documents\github\cimg\imagemorphing\imagemorphing\facemorphing.cpp(179): warning C4018: '<': signed/unsigned mismatch
 c:\program files (x86)\microsoft visual studio 14.0\vc\include\cimg.h(14407): warning C4319: '~': zero extending 'unsigned long' to 'double' of greater size
   c:\program files (x86)\microsoft visual studio 14.0\vc\include\cimg.h(14406): note: while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
   c:\program files (x86)\microsoft visual studio 14.0\vc\include\cimg.h(14138): note: see reference to function template instantiation 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)' being compiled
